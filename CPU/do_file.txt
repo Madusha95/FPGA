@@ -1,0 +1,134 @@
+vsim -gui work.cpu_top
+add wave -r /*
+force inport 10000001
+force rst 0
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force inport 00001000
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+
+
+
